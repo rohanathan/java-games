@@ -1,1 +1,1 @@
-This repository contains simple games based on Java
+**This repository contains simple games based on Java**
